@@ -1,0 +1,6 @@
+D:\Source\machineLearning\Source\ReadXmlRecog\ReadXmlRecog\bin\Debug\ReadXmlRecog.exe.config
+D:\Source\machineLearning\Source\ReadXmlRecog\ReadXmlRecog\bin\Debug\ReadXmlRecog.exe
+D:\Source\machineLearning\Source\ReadXmlRecog\ReadXmlRecog\bin\Debug\ReadXmlRecog.pdb
+D:\Source\machineLearning\Source\ReadXmlRecog\ReadXmlRecog\obj\Debug\ReadXmlRecog.csprojResolveAssemblyReference.cache
+D:\Source\machineLearning\Source\ReadXmlRecog\ReadXmlRecog\obj\Debug\ReadXmlRecog.exe
+D:\Source\machineLearning\Source\ReadXmlRecog\ReadXmlRecog\obj\Debug\ReadXmlRecog.pdb
